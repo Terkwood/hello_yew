@@ -1,8 +1,8 @@
-extern crate yew;
 extern crate hello_yew;
+extern crate yew;
 
-use yew::prelude::*;
 use hello_yew::Model;
+use yew::prelude::*;
 
 fn main() {
     yew::initialize();
