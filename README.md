@@ -1,4 +1,4 @@
-# hello, yew
+# hello, yew 🐳
 
 The goal of this repository is to play around with yew & rust webassembly.
 
