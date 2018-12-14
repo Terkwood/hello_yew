@@ -14,7 +14,6 @@ cargo web start
 
 ## Resources
 
-- 
 These articles from Sascha Grunert were helpful.  Thank you!
 
 - https://medium.com/@saschagrunert/a-web-application-completely-in-rust-6f6bdb6c4471
